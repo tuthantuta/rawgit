@@ -1,5 +1,3 @@
-<script type='text/javascript'>
- //<![CDATA[
 //TIME AGO
 jQuery(document).ready(function($) {$('abbr.timeago').timeago();});
 //UPDATE COMMENT
@@ -108,4 +106,3 @@ buttons: {}
 });
 //SLIDE BOX
 $(window).load(function(){$('.tinanh-inner').flexslider({animation:"slide",pauseOnAction:false,slideshowSpeed:4000,animationSpeed:300})})
-//]]></script>
