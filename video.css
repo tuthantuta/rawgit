@@ -1,0 +1,4 @@
+.sidebar2,.sidebar,#toolbox {display:none}
+.content-wrap,.post-view,.breadcrumbs  {width: 100%}
+@media screen and (max-width: 768px){
+.post-view {width: 100%;}}
